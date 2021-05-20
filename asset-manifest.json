@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wedding-countdown/static/css/main.7fba1ec5.chunk.css",
+    "main.js": "/wedding-countdown/static/js/main.dfecc8c6.chunk.js",
+    "main.js.map": "/wedding-countdown/static/js/main.dfecc8c6.chunk.js.map",
+    "runtime-main.js": "/wedding-countdown/static/js/runtime-main.449b2a1d.js",
+    "runtime-main.js.map": "/wedding-countdown/static/js/runtime-main.449b2a1d.js.map",
+    "static/js/2.7fb52695.chunk.js": "/wedding-countdown/static/js/2.7fb52695.chunk.js",
+    "static/js/2.7fb52695.chunk.js.map": "/wedding-countdown/static/js/2.7fb52695.chunk.js.map",
+    "static/js/3.1ac9f4f5.chunk.js": "/wedding-countdown/static/js/3.1ac9f4f5.chunk.js",
+    "static/js/3.1ac9f4f5.chunk.js.map": "/wedding-countdown/static/js/3.1ac9f4f5.chunk.js.map",
+    "index.html": "/wedding-countdown/index.html",
+    "static/css/main.7fba1ec5.chunk.css.map": "/wedding-countdown/static/css/main.7fba1ec5.chunk.css.map",
+    "static/js/2.7fb52695.chunk.js.LICENSE.txt": "/wedding-countdown/static/js/2.7fb52695.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wedding-countdown/static/media/belair.c91d84e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449b2a1d.js",
+    "static/js/2.7fb52695.chunk.js",
+    "static/css/main.7fba1ec5.chunk.css",
+    "static/js/main.dfecc8c6.chunk.js"
+  ]
+}
